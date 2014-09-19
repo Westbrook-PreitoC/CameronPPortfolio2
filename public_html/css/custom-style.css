@@ -1,0 +1,29 @@
+body{
+    background-color: turquoise;
+}
+
+
+div{
+    border-style: solid;
+    border-width: 10px
+}
+
+
+.container{
+    border-color: red;
+}
+
+
+.row{
+    border-color: blue;
+}
+
+
+.col-xs-10{
+    border-color: orange;
+}
+
+
+.col-xs-2{
+    border-color: orange;
+}
