@@ -1,0 +1,30 @@
+body{
+    background-color: purple;
+}
+
+
+div{
+    border-style: solid;
+    border-width: 10px;
+     padding:30px;
+}
+
+
+.container{
+    border-color: violet;
+}
+
+
+.row{
+    border-color: aqua;
+}
+
+
+.col-xs-10{
+    border-color: darkgreen;
+}
+
+
+.col-xs-2{
+    border-color: darkgreen;
+}
